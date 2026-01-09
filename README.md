@@ -30,3 +30,40 @@ Sigue estos pasos para correr el proyecto localmente:
     git clone [https://github.com/TU_USUARIO/cinema-api-laravel.git](https://github.com/TU_USUARIO/cinema-api-laravel.git)
     cd cinema-api-laravel
     ```
+2. **Instalar dependencias**
+   composer install
+
+3. **Configurar variables de entorno**
+
+    ```cp .env.example .env
+    php artisan key:generate
+    ```
+
+4. **Ejecutar migraciones**
+
+    ```
+    phpartisan migrate
+    ```
+
+5. **Iniciar el servidor**
+
+    ````
+    php artisan serve```
+
+    ````
+
+### 📚 Documentación
+
+Una vez iniciado el servidor, puedes ver la documentación interactiva en:
+`http://localhost:8000/docs/api`
+
+## ✅ Ejecución de pruebas (Testing)
+
+```
+php artisan test
+
+```
+
+## 📄 Licencia
+
+Este proyecto es de código abierto y está disponible bajo la licencia MIT.

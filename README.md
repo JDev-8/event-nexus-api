@@ -47,10 +47,10 @@ Sigue estos pasos para correr el proyecto localmente:
 
 5. **Iniciar el servidor**
 
-    ````
-    php artisan serve```
+    ```
+    php artisan serve
 
-    ````
+    ```
 
 ### 📚 Documentación
 

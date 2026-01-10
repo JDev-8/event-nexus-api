@@ -27,7 +27,7 @@ Sigue estos pasos para correr el proyecto localmente:
 
 1. **Clonar el repositorio**
     ```bash
-    git clone [https://github.com/TU_USUARIO/cinema-api-laravel.git](https://github.com/TU_USUARIO/cinema-api-laravel.git)
+    git clone [[https://github.com/JDev-8/event-nexus-api](https://github.com/JDev-8/event-nexus-api)]
     cd cinema-api-laravel
     ```
 2. **Instalar dependencias**
